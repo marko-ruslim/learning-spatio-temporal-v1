@@ -2,8 +2,7 @@
 % The input to the model is pre-processed static natural images.
 % This demo separates LGN input into ON and OFF channels.
 % After learning, basis vectors should resembel Gabor like features.
-% Note that a smaller video has been used in this demo (400 frames) and so
-% more epochs may be necessary
+% Note that a smaller video has been used in this demo
 % Date: 20250320
 % Author: Marko A. Ruslim
 
